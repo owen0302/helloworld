@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HelloWorld
 ==========
 
@@ -10,3 +11,6 @@ To build
 To run
 ------
     java -cp target/helloworld-1.1.jar com.coveros.demo.helloworld.HelloWorld
+=======
+# helloworld
+>>>>>>> 38185f44303fc4adced3d2cb71117b6e8700ca77
